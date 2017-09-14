@@ -1,5 +1,4 @@
 # sand-box
 Sandbox repo for testing git commands
 
-
-This is a test
+Use this repo for testing
